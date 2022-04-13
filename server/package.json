@@ -1,0 +1,19 @@
+{
+  "name": "stream_reminders_example",
+  "version": "1.0.0",
+  "description": "A sample application built to demonstrate Stream's new Reminder's API",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Neevash Ramdial (Nash)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "stream-chat": "^6.4.0"
+  }
+}
