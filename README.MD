@@ -5,9 +5,9 @@
 
 ## Quick Links
 
-- [Register](https://getstream.io/chat/trial/) to get an API key for Stream Chat
-- [Tutorial](https://getstream.io/chat/)
-- [Chat UI Kit](https://getstream.io/chat/ui-kit/)
+- [Register](https://getstream.io/chat/trial/) to get an API key for Stream Chat 🔑
+- [Tutorial](https://getstream.io/blog/unread-message-reminders-tutorial/) 📚
+- [Chat UI Kit](https://getstream.io/chat/ui-kit/) 💄
 
 ## Repo Overview 😎
 
