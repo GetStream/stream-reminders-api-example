@@ -1,4 +1,7 @@
-# Reminders API Readme
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25674767/164322697-1a9cf483-08bf-4034-ac66-d813f150da82.gif" alt="UnreadReminders" />
+</p>
+
 
 ## Quick Links
 
